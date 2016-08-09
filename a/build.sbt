@@ -6,3 +6,5 @@ organization := "com.example"
 publishMavenStyle := true
 publishMavenStyle in Test := true
 publishArtifact in Test := true
+
+scalaVersion := "2.11.8"
